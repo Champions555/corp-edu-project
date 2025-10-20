@@ -41,4 +41,4 @@
 ### Для разработчиков
 1. Клонируйте репозиторий:
    ```bash
-   
+   https://github.com/Champions555/corp-edu-project
