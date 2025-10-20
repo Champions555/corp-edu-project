@@ -41,5 +41,4 @@
 ### Для разработчиков
 1. Клонируйте репозиторий:
    ```bash
-   git clone [https://github.com/your-team/corp-edu-project.git
-   cd corp-edu-project](https://github.com/Champions555/corp-edu-project)
+   
